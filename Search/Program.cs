@@ -21,7 +21,7 @@ namespace Search
             //Console.WriteLine(Exponential.ExponentialSearch(numbers, 12).ToString()); 
 
             //JupmSearch
-            //Console.WriteLine(JumpSearch.jumpSearch(numbers, 12).ToString()); 
+            Console.WriteLine(JumpSearch.jumpSearch(numbers, 60).ToString()); 
 
 
             Console.ReadLine();
